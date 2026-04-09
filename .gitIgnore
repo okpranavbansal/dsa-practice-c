@@ -1,1 +1,4 @@
-**/*.out
+bitAnd
+*.o
+*.out
+.DS_Store
